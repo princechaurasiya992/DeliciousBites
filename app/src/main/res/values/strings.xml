@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Delicious Bites</string>
+
+    <!--Preference file name-->
+    <string name="preference_file_name">Delicious Bites Preferences</string>
+
+    <!--Buttons and clickable texts-->
+    <string name="login_button">Log in</string>
+    <string name="forgot_password_clickable_text">Forgot Password?</string>
+    <string name="don_t_have_an_account_text">Don\'t have an account?</string>
+    <string name="sign_up_clickable_text">Sign up</string>
+    <string name="forgot_password_information_text">Enter your registered mobile no. and email below:</string>
+    <string name="next_button_text">Next</string>
+    <string name="register_button_text">Register</string>
+    <string name="submit">Submit</string>
+
+    <!--EditText hints-->
+    <string name="password_hint">Password</string>
+    <string name="email_address_hint">Email Address</string>
+    <string name="mobile_number_hint">Mobile Number (10 digits)</string>
+    <string name="name_hint">Name (Min. 3 characters)</string>
+    <string name="delivery_address_hint">Delivery Address</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="password_min_characters_hint">Password (Min. 4 characters)</string>
+    <string name="otp_hint">OTP (4 characters)</string>
+    <string name="new_password_hint">New Password (Min. 6 characters)</string>
+
+    <!--Navigation Drawer-->
+    <string name="navigation_drawer">Delicious Bites</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+
+    <!--Drawer Menu-->
+    <string name="dashboard">Home</string>
+    <string name="profile">My Profile</string>
+    <string name="favourites">Favourite Restaurants</string>
+    <string name="faq">FAQs</string>
+    <string name="orders">Order History</string>
+    <string name="log_out">Log out</string>
+
+    <!--Sort By?-->
+    <string-array name="restaurants_sort_by">
+        <item>Rating</item>
+        <item>Cost (High to Low)</item>
+        <item>Cost (Low to High)</item>
+    </string-array>
+    <string-array name="foods_sort_by">
+        <item>Cost (High to Low)</item>
+        <item>Cost (Low to High)</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

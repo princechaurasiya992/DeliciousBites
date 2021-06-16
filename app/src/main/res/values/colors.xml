@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF5722</color>
+    <color name="colorPrimaryDark">#C83733</color>
+    <color name="colorAccent">#FF5722</color>
+
+    <color name="buttonTextColor">#ffffff</color>
+    <color name="buttonStrokeColor">#ffffff</color>
+
+    <color name="textColor">#000000</color>
+    <color name="backgroundColor">#ffccbc</color>
+    <color name="editBoxBackgroundColor">#ffffff</color>
+
+    <color name="ic_launcher_delicious_bites_background">#FF5722</color>
+
+</resources>
